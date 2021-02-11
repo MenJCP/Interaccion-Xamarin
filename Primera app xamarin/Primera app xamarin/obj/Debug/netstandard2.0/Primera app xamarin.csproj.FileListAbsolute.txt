@@ -1,0 +1,14 @@
+C:\Users\JeanC\source\repos\Primera app xamarin\Primera app xamarin\Primera app xamarin\bin\Debug\netstandard2.0\Primera app xamarin.deps.json
+C:\Users\JeanC\source\repos\Primera app xamarin\Primera app xamarin\Primera app xamarin\bin\Debug\netstandard2.0\Primera app xamarin.dll
+C:\Users\JeanC\source\repos\Primera app xamarin\Primera app xamarin\Primera app xamarin\bin\Debug\netstandard2.0\ref\Primera app xamarin.dll
+C:\Users\JeanC\source\repos\Primera app xamarin\Primera app xamarin\Primera app xamarin\bin\Debug\netstandard2.0\Primera app xamarin.pdb
+C:\Users\JeanC\source\repos\Primera app xamarin\Primera app xamarin\Primera app xamarin\obj\Debug\netstandard2.0\Primera app xamarin.csprojAssemblyReference.cache
+C:\Users\JeanC\source\repos\Primera app xamarin\Primera app xamarin\Primera app xamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\JeanC\source\repos\Primera app xamarin\Primera app xamarin\Primera app xamarin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\JeanC\source\repos\Primera app xamarin\Primera app xamarin\Primera app xamarin\obj\Debug\netstandard2.0\Primera app xamarin.AssemblyInfoInputs.cache
+C:\Users\JeanC\source\repos\Primera app xamarin\Primera app xamarin\Primera app xamarin\obj\Debug\netstandard2.0\Primera app xamarin.AssemblyInfo.cs
+C:\Users\JeanC\source\repos\Primera app xamarin\Primera app xamarin\Primera app xamarin\obj\Debug\netstandard2.0\Primera app xamarin.csproj.CoreCompileInputs.cache
+C:\Users\JeanC\source\repos\Primera app xamarin\Primera app xamarin\Primera app xamarin\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\JeanC\source\repos\Primera app xamarin\Primera app xamarin\Primera app xamarin\obj\Debug\netstandard2.0\Primera app xamarin.dll
+C:\Users\JeanC\source\repos\Primera app xamarin\Primera app xamarin\Primera app xamarin\obj\Debug\netstandard2.0\ref\Primera app xamarin.dll
+C:\Users\JeanC\source\repos\Primera app xamarin\Primera app xamarin\Primera app xamarin\obj\Debug\netstandard2.0\Primera app xamarin.pdb
